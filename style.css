@@ -87,7 +87,7 @@ header{
 }
 .article2-parents{
     display: flex;
-    gap: 20px;
+    gap: 30px;
    justify-content: center;
    padding-top: 38px;
    padding-bottom: 120px;
