@@ -40,7 +40,7 @@
 /* header */
 
 header{
-   
+   height: 750px;
     display: flex;
     gap: 50px;
     align-items: center;
@@ -56,9 +56,9 @@ header{
 }
 
 header img{
-    max-width: 325px;
+    max-height: 700px;
     height: auto;
-    padding-top: 30px;
+    padding-top: 50px;
     
 }
 .header-div-1{
