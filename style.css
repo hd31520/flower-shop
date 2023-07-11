@@ -56,9 +56,9 @@ header{
 }
 
 header img{
-    max-height: 700px;
+    max-height: 650px;
     height: auto;
-    padding-top: 50px;
+    padding-top: 100px;
     
 }
 .header-div-1{
@@ -69,7 +69,7 @@ header img{
 header h1{
     color: #272727;
     font-family: Lato;
-    font-size: 50px;
+    font-size: 45px;
     font-style: normal;
     font-weight: 800;
     line-height: normal;
@@ -199,10 +199,24 @@ header h1{
 .discount-section{
     display: flex;
     align-items: center;
-    justify-content: space-around;
-    padding-left: 375px;
-    padding-right: 375px;
+    gap: 100px;
+    justify-content: space-between;
+    padding-left: 300px;
+    padding-right: 260px;
 }
+
+.discount-section img{
+    max-width: 250px;
+}
+.discount-section .discount{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.discount-section .discount button{
+    width: 130px;
+}
+
 
 
 /* instragram section */
