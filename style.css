@@ -56,12 +56,10 @@ header{
 }
 
 header img{
-    max-width: 425px;
+    max-width: 325px;
     height: auto;
     padding-top: 30px;
-    padding-bottom: 0;
-    flex-shrink: 0;
-    position: relative;
+    
 }
 .header-div-1{
     display: flex;
