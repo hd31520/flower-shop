@@ -1,0 +1,63 @@
+/* commn css style */
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    
+}
+
+.btn-primary{
+    border-radius: 8px;
+    background: #E55473;
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    border: 0;
+}
+.title-font{
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* header css style */
+header{
+    max-height: 850px;
+    background-color: rgba(229, 84, 115, 0.10);
+    display: flex;
+    gap: 97px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 240px ;
+}
+header img{
+    padding-top: 50px;
+}
+.header-div-1{
+    display: flex;
+    gap: 32px;
+    width: 708px;
+    height: 288;
+    flex-direction: column;
+    
+
+}
+.header-div-1 h1{
+    color: #272727;
+    font-family: Lato;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+.header-div-1 p{
+    color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+
